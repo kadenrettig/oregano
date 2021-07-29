@@ -1,12 +1,13 @@
-import Todo from "./components/Todo";
+import Header from "./components/Header";
+import Intro from "./components/Intro";
+import About from "./components/About";
 
 function App() {
   return (
     <div>
-      <h1>My Todos</h1>
-      <Todo text="Learn React" />
-      <Todo text="Master React" />
-      <Todo text="Explore the full React Course" />
+      <Header />
+      <Intro />
+      <About />
     </div>
   );
 }
