@@ -15,7 +15,7 @@ function Header() {
               class="font-bold block px-8 py-4 hover:bg-purple-200"
               href="#hero"
             >
-              Hero
+              Welcome
             </a>
           </li>
           <li>
@@ -33,7 +33,7 @@ function Header() {
               href="#tech-support"
             >
               {" "}
-              Tech Support
+              Staff
             </a>
           </li>
         </ul>

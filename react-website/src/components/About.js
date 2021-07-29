@@ -4,7 +4,7 @@ import cats from "../assets/cats.jpg";
 
 function About() {
   return (
-    <section id="about" class="bg-gray-300 pt-10">
+    <section id="about" class="bg-gray-300 pt-20 pb-20">
       <h2 class="text-center text-xl font-bold underline text-gray-900">
         Wanna Learn More About Me?
       </h2>
