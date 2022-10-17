@@ -1,5 +1,5 @@
 # Project: oregano
-Redefinition of the previous html website using react. Features an introduction, about page, and "staff" section.
+A personal website built on HTML5 with React and Node.js, with use of Tailwind for styling.
 
 # Access:
 Website: oregano.surge.sh
